@@ -5,7 +5,7 @@ import pandas as pd
 class Preprocessing:
     """Documentation here
     """
-    
+    @staticmethod
     def set_rule(df:pd.DataFrame)->pd.DataFrame:
         """Documentation here
         """
